@@ -10,7 +10,7 @@
 <footer class="site-footer" role="contentinfo">
 	<div class="site-info container">
 		
-		<p>Birthed <a href="http://bckmn.com/naked-wordpress" rel="theme">Naked</a> 
+		<p>Birthed <a href="http://athanasiadis.me" rel="theme">Naked Semantic</a>
 			on <a href="http://wordpress.org" rel="generator">Wordpress</a> 
 			by <a href="http://bckmn.com" rel="designer">Joshua Beckman</a>
 		</p>
